@@ -26,6 +26,11 @@ STEP 6: Use zscore of to remove outliers
             df.describe()
 ![image](https://github.com/user-attachments/assets/9070c361-ba2f-4936-b956-6b9fe5a6135d)
 
+            df.info()
+            
+<img width="711" alt="{6D8C5B0E-AC31-4B91-8B91-77FF6293D664}" src="https://github.com/user-attachments/assets/9143d9f2-81ab-4bf9-83b7-3460225a23c7" />
+
+
 
 
 # Result
