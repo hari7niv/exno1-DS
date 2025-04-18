@@ -24,7 +24,7 @@ STEP 6: Use zscore of to remove outliers
             import pandas as pd
             df = pd.read_csv("SAMPLEIDS (1).csv")
             df.describe()
-            ![pexels-joshkjack-135018](https://github.com/user-attachments/assets/80ac4f48-e5cd-45f0-af07-40c46b86e209)
+![image](https://github.com/user-attachments/assets/07016a67-f2a1-449f-9c40-762244f421dd)
 
 
 
